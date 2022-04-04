@@ -13,7 +13,7 @@ We have predicted the quality of water using Machine learning algorithm. We have
 <hr>
 
 ## The Roadmap of the ML algorithm
-<img src = "https://github.com/PRITAM9679/water-analysis/blob/main/images/roadmap.png" height=400 width = 400>
+<img src = "https://github.com/PRITAM9679/water-analysis/blob/main/images/roadmap.png" height=400 width = 600>
 <hr>
 ## Some screenshot of our apps are: - 
 <img src = "https://github.com/sahelipal/water-analysis/blob/main/images/Screenshot_2022-04-03-13-34-04-528_com.example.waterdetails.jpg" height = 600 width=300>
